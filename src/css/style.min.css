@@ -1,0 +1,2 @@
+.container{margin:0 auto;width:500px}@media only screen and (max-width: 767px){.container{width:100%;max-width:500px}}.progress-bar{position:relative;border:1px solid black;margin-bottom:10px;border-radius:5px;text-align:center}.filled-bar{background:orange;width:80%;position:absolute;height:100%;transition:all 0.5s ease 0s}.amount{position:relative}
+/*# sourceMappingURL=style.min.css.map */

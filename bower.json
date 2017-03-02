@@ -1,0 +1,16 @@
+{
+  "name": "progress-bar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"inuit.css": "5.0.1"
+  }
+}
